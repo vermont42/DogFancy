@@ -10,7 +10,7 @@ DogFancy
 
 ### Description
 
-DogFancy demonstrates the sort of app that a candidate for an iOS-development job might be expected to implement in forty-five minutes. [This YouTube video](TODO) shows me implementing DogFancy. [This blog post](https://www.racecondition.software/blog/live-challenges/) describes my preparation for this implementation.
+DogFancy demonstrates the sort of app that a candidate for an iOS-development job might be expected to implement in forty-five minutes. [This YouTube video](https://www.youtube.com/watch?v=iPoll8fg2XE) shows me implementing DogFancy. [This blog post](https://www.racecondition.software/blog/live-challenges/) describes my preparation for this implementation.
 
 DogFancy gets dog-breed data from [The Dog API](https://www.thedogapi.com), which is fantastic. To run DogFancy, get an API key from The Dog API and replace `API_KEY` in `BreedLoader.swift` with that API key.
 
